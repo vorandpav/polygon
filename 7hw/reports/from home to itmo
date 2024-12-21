@@ -1,0 +1,15 @@
+DFS
+Distance: 10033
+Time: 540
+
+BFS
+Distance: 0.126704
+Time: 19712
+
+DIJKSTRA
+Distance: 0.126704
+Time: 567
+
+ASTAR
+Distance: 0.126704
+Time: 617
